@@ -1,0 +1,40 @@
+body{
+    background-color: aquamarine;
+}
+
+.cabecalho{
+    background-color: bisque;
+    width: 100%;
+    max-width: 2092px;
+    height: 200px;
+    border-radius: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 5px;
+}
+
+
+.menu-lateral{
+    background-color: azure;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 200px;
+    height: 1152px;
+    margin: 15px 5px;
+    float: left;
+    padding: auto;
+}
+
+.conteudo{
+    background-color: blueviolet;
+    border-radius: 5px;
+    margin-left: 220px;
+    width: 100%;
+    max-width: 1878px;
+    height: 1152px;
+
+
+}
